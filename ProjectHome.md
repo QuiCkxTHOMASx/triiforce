@@ -1,0 +1,1 @@
+TriiForce a open source channel loader wich will have support for nand emulation, patches, and possibly ocarina
